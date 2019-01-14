@@ -1,0 +1,1 @@
+Conveyor belt can now be raised and lowered by the assisting joystick buttons 2 and 3.
